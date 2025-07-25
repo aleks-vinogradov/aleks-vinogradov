@@ -11,11 +11,7 @@
 
 ---
 
-### 🚀 Проекты
 
-- [Project One](https://github.com/aleks-vinogradov/project-one) — краткое описание проекта или технологии.
-- [Project Two](https://github.com/aleks-vinogradov/project-two) — краткое описание проекта или технологии.
-- [Project Three](https://github.com/aleks-vinogradov/project-three) — краткое описание проекта или технологии.
 
 ---
 
@@ -26,11 +22,11 @@
 
 ---
 
-<h1 align="center">Alexander Kuklin</h1>
+<h1 align="center">Aleksey Vinogradov</h1>
 <p align="center">
-  <a href="mailto:a.v.kuklin@yandex.ru">a.v.kuklin@yandex.ru</a> •
-  <a href="https://t.me/Alexander1781">Telegram</a> •
-  Moscow
+  <a href="mailto:vinogradov.pixelimedia@yandex">vinogradov.pixelimedia@yandex</a> •
+  <a href="https://t.me/aleks_vinogradov">Telegram</a> •
+  Saint Petersburg
 </p>
 
 ---
@@ -54,29 +50,17 @@
 
 ---
 
-## Опыт работы
-
-**июль 2021 – н.в.**  
-**КБ Стрелка** ([strelka-kb.com](https://strelka-kb.com))  
-*Младший backend-разработчик в команде. Разработка в сфере дата-аналитики.*
-
-- Разработка микросервисов различного назначения
-- Разработка API для внутренних сервисов
-- Создание сервисов чат-ботов
-- Разработка проектов «Чего хочет город», «Пять шагов для городов», «Цифровой мастер-план Байкальска»
-- Разработка внутреннего чат-бота
-- Поддержка чат-бота дружественного ресторана
-- Разработка классификатора текстов
-
-**Стек:** Python 3, PostgreSQL, Sanic, RabbitMQ, AsyncIO, Simple-JWT, GIT, GraphQL, Pandas, NumPy, Docker, REST API
-
----
-
 ## Обучение
 
 **2022 — Яндекс.Практикум Data Science**  
 [Сертификат RUS / EN](#)
 
+### 🚀 Проекты
+
+- [Project One](https://github.com/aleks-vinogradov/project-one) — краткое описание проекта или технологии.
+- [Project Two](https://github.com/aleks-vinogradov/project-two) — краткое описание проекта или технологии.
+- [Project Three](https://github.com/aleks-vinogradov/project-three) — краткое описание проекта или технологии.
+  
 ### Финальный проект Яндекс Практикум:  
 Тема: **Промышленность. Аналитика**  
 Модели: LGBMRegressor, CatBoostRegressor, RandomForestRegressor, LinearRegression
