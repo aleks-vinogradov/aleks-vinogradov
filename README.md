@@ -1,24 +1,7 @@
-<h1 align="center">aleks-vinogradov</h1>
-<p align="center">
-  <b>Software Engineer</b> · <i>Backend / DevOps / Open Source</i>
-</p>
-
----
 
 ### 🛠️ Технологии
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
----
-
-
-
----
-
-### 📫 Контакты
-
-- Email: vinogradov.pixelimedia@yandex
-- Telegram: [@aleks_vinogradov](https://t.me/aleks_vinogradov)
 
 ---
 
