@@ -1,12 +1,3 @@
-<h1 align="center">Aleksey Vinogradov</h1>
-<p align="center">
-  <a href="mailto:vinogradov.pixelimedia@yandex">vinogradov.pixelimedia@yandex</a> •
-  <a href="https://t.me/aleks_vinogradov">Telegram</a> •
-  Saint Petersburg
-</p>
-
----
-
 ## Содержание
 - [Резюме](#резюме)
 - [Опыт работы](#опыт-работы)
