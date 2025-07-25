@@ -53,7 +53,7 @@
 ## 🎓 Обучение
 
 **2025 — Яндекс.Практикум Data Science**  
-[Сертификат RUS / EN](#)
+[Сертификат RUS](https://github.com/aleks-vinogradov/aleks-vinogradov/blob/main/Сертификат_RU_Виноградов_2025-9011-006.pdf) / [Сертификат EN](https://github.com/aleks-vinogradov/aleks-vinogradov/blob/main/Сertificate_ENG_Виноградов_2025-9011-006.pdf)
 
 ---
 
