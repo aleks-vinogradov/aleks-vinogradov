@@ -10,7 +10,7 @@
 
 ## 📝 Резюме
 
-**Аналитик данных** [Резюме](https://hh.ru/resume/5dbef2feff0f2c3e440039ed1f626d49334c44) / [PDF](https://example.com/ваше_резюме.pdf)
+**Аналитик данных** [Резюме](https://hh.ru/resume/5dbef2feff0f2c3e440039ed1f626d49334c44) / [PDF](https://raw.githubusercontent.com/aleks-vinogradov/aleks-vinogradov/blob/main/Резюме.pdf)
 
 **🛠️ Навыки:**
 
