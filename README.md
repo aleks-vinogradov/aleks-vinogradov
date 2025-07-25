@@ -14,6 +14,7 @@
 **Специалист по Data Science**  
 [hh.ru / .pdf](#)  
 **Навыки:** Python, SQL, Jupyter, Pandas, NumPy, Tableau, Matplotlib 
+
 ---
 
 ## Опыт работы
