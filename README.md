@@ -3,7 +3,7 @@
 - [Опыт работы](## 💼 Опыт работы)
 - [Обучение](## 🎓 Обучение)
 - [Учебные проекты](## 🚀 Учебные проекты)
-    - [Data Science](#Data_Science)
+    - [Data Science]([#Data_Science](https://github.com/aleks-vinogradov/aleks-vinogradov/blob/main/README.md#data-science))
 
 ---
 
