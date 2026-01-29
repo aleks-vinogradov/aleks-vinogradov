@@ -179,7 +179,7 @@
 
 - **📧 Email:** [vinogradov.pixelmedia@yandex.ru](mailto:vinogradov.pixelmedia@yandex.ru)
 - **📱 Telegram:** [@aleks_vinogradov](https://t.me/aleks_vinogradov)
-- **📄 Резюме:** [HH.ru](https://hh.ru/resume/5dbef2feff0f2c3e440039ed1f626d49334c44) / [PDF](https://github.com/aleks-vinogradov/aleks-vinogradov/blob/main/Резюме Системный аналитик  Data Scientist.pdf)
+- **📄 Резюме:** [HH.ru](https://hh.ru/resume/5dbef2feff0f2c3e440039ed1f626d49334c44) / [PDF](https://github.com/aleks-vinogradov/aleks-vinogradov/blob/main/Резюме_Системный_аналитик_Data_Scientist.pdf)
 - **📍 Location:** Санкт-Петербург, Россия
 
 ---
