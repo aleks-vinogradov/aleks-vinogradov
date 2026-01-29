@@ -1,4 +1,4 @@
-# 👋 Привет! Я Алексей Виноградов
+# 👋 Алексей Виноградов
 
 ![System Analyst Certified](https://img.shields.io/badge/ASTON-System%20Analysis%20Certified-8A2BE2)
 ![Data Science Graduate](https://img.shields.io/badge/Yandex-Data%20Science%20Graduate-FFCC00)
